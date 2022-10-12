@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Bot2
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bot2\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=yourName
+comment1.target=Bot2(java.lang.String)
+comment10.params=feet
+comment10.target=double\ feetToMeters(double)
+comment2.params=
+comment2.target=void\ greeting()
+comment3.params=
+comment3.target=void\ help()
+comment4.params=
+comment4.target=void\ weather()
+comment5.params=
+comment5.target=void\ feetInMile()
+comment6.params=
+comment6.target=void\ goodbye()
+comment7.params=yourNumber
+comment7.target=void\ favoriteNumber(int)
+comment8.params=yourAnimal
+comment8.target=void\ favoriteAnimal(java.lang.String)
+comment9.params=location
+comment9.target=void\ home(java.lang.String)
+numComments=11
